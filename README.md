@@ -26,7 +26,7 @@ Created dashboards, custom alerts, and integrated notifications.
 - SIEM & Incident Response
 - Enterprise Network Security
 
-📫 LinkedIn | Email
+📫 [LinkedIn](www.linkedin.com/in/dithusan-sathiyarooban-762716272) | [Email](dithusan.s04@gmail.com)
 
 <!---
 ditto249/ditto249 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
